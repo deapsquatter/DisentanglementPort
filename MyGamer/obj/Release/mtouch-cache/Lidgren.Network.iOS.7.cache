@@ -1,0 +1,1 @@
+--llvm --aot=mtriple=thumbv7-darwin,full,static,asmonly,direct-icalls,nodebug,llvm-path=/Developer/MonoTouch/LLVM/bin/,outfile=/Lidgren.Network.iOS.dll.7.s "/Users/kevinknoop/Projects/MyGame/MyGamer/bin/iPhone/Release/Lidgren.Network.iOS.dll"

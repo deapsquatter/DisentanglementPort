@@ -1,0 +1,4 @@
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/bin/Debug/MyGamerDroid.dll
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/bin/Debug/MonoGame.Framework.Android.dll
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/bin/Debug/Lidgren.Network.Android.dll
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/bin/Debug/DisenDroid.dll

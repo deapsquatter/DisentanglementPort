@@ -1,0 +1,8 @@
+MyGamerDroid.Activity1;mygamerdroid.Activity1
+Microsoft.Devices.Sensors.Accelerometer.SensorListener;microsoft.devices.sensors.Accelerometer_SensorListener
+Microsoft.Devices.Sensors.Compass.SensorListener;microsoft.devices.sensors.Compass_SensorListener
+Microsoft.Xna.Framework.OrientationListener;microsoft.xna.framework.OrientationListener
+Microsoft.Xna.Framework.ScreenReceiver;microsoft.xna.framework.ScreenReceiver
+Microsoft.Xna.Framework.AndroidGameActivity;microsoft.xna.framework.AndroidGameActivity
+Microsoft.Xna.Framework.PowerStatus.BatteryStatusBroadCastReceiver;microsoft.xna.framework.PowerStatus_BatteryStatusBroadCastReceiver
+Microsoft.Xna.Framework.AndroidGameWindow;microsoft.xna.framework.AndroidGameWindow

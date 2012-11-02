@@ -1,0 +1,9 @@
+/Users/kevinknoop/Projects/MyGame/DisenDroid/bin/Debug/DisenDroid.dll.mdb
+/Users/kevinknoop/Projects/MyGame/DisenDroid/bin/Debug/DisenDroid.dll
+/Users/kevinknoop/Projects/MyGame/DisenDroid/bin/Debug/DisenDroid.DisenDroid.apk
+/Users/kevinknoop/Projects/MyGame/DisenDroid/obj/Debug/android/bin/DisenDroid.DisenDroid.apk
+/Users/kevinknoop/Projects/MyGame/DisenDroid/obj/Debug/R.cs.flag
+/Users/kevinknoop/Projects/MyGame/DisenDroid/bin/Debug/DisenDroid.DisenDroid-Signed.apk
+/Users/kevinknoop/Projects/MyGame/DisenDroid/obj/Debug/uploadflags.txt
+/Users/kevinknoop/Projects/MyGame/DisenDroid/obj/Debug/DisenDroid.dll
+/Users/kevinknoop/Projects/MyGame/DisenDroid/obj/Debug/DisenDroid.dll.mdb

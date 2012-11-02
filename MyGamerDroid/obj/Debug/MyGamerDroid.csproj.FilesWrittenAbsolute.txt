@@ -1,0 +1,12 @@
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/bin/Debug/MyGamerDroid.dll.mdb
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/bin/Debug/MyGamerDroid.dll
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/bin/Debug/MyGamerDroid.MyGamerDroid.apk
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/obj/Debug/android/bin/MyGamerDroid.MyGamerDroid.apk
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/obj/Debug/res/layout/main.xml
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/obj/Debug/res/values/strings.xml
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/obj/Debug/res/drawable/icon.png
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/obj/Debug/R.cs.flag
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/bin/Debug/MyGamerDroid.MyGamerDroid-Signed.apk
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/obj/Debug/uploadflags.txt
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/obj/Debug/MyGamerDroid.dll
+/Users/kevinknoop/Projects/MyGame/MyGamerDroid/obj/Debug/MyGamerDroid.dll.mdb

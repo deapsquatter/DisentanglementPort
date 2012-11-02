@@ -1,0 +1,1 @@
+--llvm --aot=mtriple=thumbv7-darwin,full,static,asmonly,direct-icalls,nodebug,llvm-path=/Developer/MonoTouch/LLVM/bin/,outfile=/Mono.Security.dll.7.s "/Users/kevinknoop/Projects/MyGame/MyGamer/bin/iPhone/Release/MyGamer.app/Mono.Security.dll"
